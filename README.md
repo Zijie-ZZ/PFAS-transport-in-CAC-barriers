@@ -1,5 +1,6 @@
 # PFAS transport in CAC-amended groundwater barriers
 
+
 This repository contains MATLAB codes used to simulate PFAS transport in
 colloidal activated carbon (CAC)–amended sand columns, with a focus on
 particle-scale mass-transfer limitations and non-equilibrium sorption.
@@ -14,10 +15,10 @@ support the analyses and figures presented in the associated manuscript.
 ## Associated publication
 
 Zheng, Z., Cline, D., Shih, C.-Y., Richardson, S. D., Newell, C.,
-El Mohtar, C., Hesse, M. A., Werth, C. J. (2026).  
+El Mohtar, C., Hesse, M. A., Werth, C. J.
 **Effects of Mass-transfer Limitations on PFAS Breakthrough in
-Colloidal Activated Carbon Groundwater Barriers**.  
-*Journal name* (submitted).
+Colloidal Activated Carbon Groundwater Barriers**.
+*ACS ES&T Engineering* (submitted).
 
 ---
 
@@ -36,7 +37,15 @@ Colloidal Activated Carbon Groundwater Barriers**.
 
 ## Corresponding author affiliations (Email provided)
 
+Corresponding authors:  
+Zijie Zheng; Charles J. Werth; Marc A. Hesse
+
 Department of Civil, Architectural and Environmental Engineering  
+The University of Texas at Austin
+
+Oden Institute for Computational Engineering and Sciences /  
+Jackson School of Geosciences /  
+University of Texas Institute for Geophysics  
 The University of Texas at Austin
 
 ---
@@ -60,11 +69,11 @@ and a fully equilibrium model (dashed lines).*
 
 If you use this code, please cite the associated manuscript:
 
-Zheng, Z., Cline, D., Shih, C.-Y., Richardson, S. D., Newell, C.,
-El Mohtar, C., Hesse, M. A., Werth, C. J. (202X).
+Zheng, Z.; Cline, D.; Shih, C.-Y.; Richardson, S. D.; Newell, C.;
+El Mohtar, C.; Hesse, M. A.; Werth, C. J.
 *Effects of Mass-transfer Limitations on PFAS Breakthrough in
 Colloidal Activated Carbon Groundwater Barriers*.
-Journal name (submitted).
+ACS ES&T Engineering (submitted).
 
 ---
 ## Getting Started
@@ -80,3 +89,9 @@ After downloading or cloning the repository, run:
 
 ```matlab
 run(fullfile('src','Run_PFOS_column.m'))
+
+Without this, GitHub renders everything below as code.
+
+---
+
+
