@@ -23,7 +23,7 @@ Colloidal Activated Carbon Groundwater Barriers**.
 
 ## Authors
 
-- Zijie Zheng (zheng@utexas.edu)
+- Zijie Zheng (zhengzj@utexas.edu)
 - Dayna Cline
 - Chun-Yu Shih
 - Stephen D. Richardson
