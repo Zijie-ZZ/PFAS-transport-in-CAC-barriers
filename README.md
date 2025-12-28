@@ -53,7 +53,7 @@ experiments and supports the analyses presented in the associated manuscript.
 
 *Experimental PFOS breakthrough data (symbols) and model simulations using a
 two-site sorption formulation with best-fit equilibrium fraction (solid lines)
-and a fully kinetic model (dashed lines).*
+and a fully equilibrium model (dashed lines).*
 
 ---
 ## Citation
