@@ -1,0 +1,20 @@
+# MATLAB autosave/backup
+*.asv
+*.m~
+
+# Compiled MEX
+*.mex*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# MATLAB/Simulink caches
+slprj/
+codegen/
+*.slxc
+*.mdl.autosave
+
+# Optional: ignore large binary figures
+*.fig
+
