@@ -15,7 +15,7 @@ support the analyses and figures presented in the associated manuscript.
 
 Zheng, Z., Cline, D., Shih, C.-Y., Richardson, S. D., Newell, C.,
 El Mohtar, C., Hesse, M. A., Werth, C. J. (2026).  
-**Effects of Mass-Transfer Limitations on PFAS Breakthrough in
+**Effects of Mass-transfer Limitations on PFAS Breakthrough in
 Colloidal Activated Carbon Groundwater Barriers**.  
 *Journal name* (submitted).
 
@@ -45,9 +45,38 @@ The University of Texas at Austin
 
 The codes simulate PFAS transport in colloidal activated carbon (CAC)–amended
 sand columns using a one-dimensional advection–dispersion model with nonlinear
-Freundlich sorption and two-site (equilibrium + kinetic) mass transfer.
+Freundlich sorption and a two-site (equilibrium + kinetic) formulation.
 The model reproduces non-ideal breakthrough behavior observed in column
 experiments and supports the analyses presented in the associated manuscript.
 
----
+![PFOS breakthrough curves in CAC-amended columns](Figures/PFOS_column_breakthrough.png)
 
+*Experimental PFOS breakthrough data (symbols) and model simulations using a
+two-site sorption formulation with best-fit equilibrium fraction (solid lines)
+and a fully kinetic model (dashed lines).*
+
+---
+## Citation
+
+If you use this code, please cite the associated manuscript:
+
+Zheng, Z., Cline, D., Shih, C.-Y., Richardson, S. D., Newell, C.,
+El Mohtar, C., Hesse, M. A., Werth, C. J. (202X).
+*Effects of Mass-transfer Limitations on PFAS Breakthrough in
+Colloidal Activated Carbon Groundwater Barriers*.
+Journal name (submitted).
+
+---
+## Getting Started
+
+### Requirements
+- MATLAB R2020b or later
+
+No additional toolboxes are required beyond standard MATLAB functionality.
+
+### Quick usage
+
+After downloading or cloning the repository, run:
+
+```matlab
+run(fullfile('src','Run_PFOS_column.m'))
