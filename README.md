@@ -1,4 +1,6 @@
 # PFAS transport in CAC-amended groundwater barriers
+This repository provides the MATLAB codes used to generate the transport
+simulations presented in a manuscript submitted to *ACS ES&T Engineering*.
 
 
 This repository contains MATLAB codes used to simulate PFAS transport in
@@ -90,7 +92,6 @@ After downloading or cloning the repository, run:
 ```matlab
 run(fullfile('src','Run_PFOS_column.m'))
 
-Without this, GitHub renders everything below as code.
 
 ---
 
