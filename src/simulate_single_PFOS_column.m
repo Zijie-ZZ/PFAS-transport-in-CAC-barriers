@@ -1,0 +1,6 @@
+function [t_days, Cout] = simulate_single_PFOS_column(par, Q_mL_h, tInjectDays, tMaxDays)
+% Wrapper so your driver script stays clean
+[t_days, Cout] = ADE_Freundlich_Kinetic_1D( ...
+    par.c0, Q_mL_h, par.rho_b, par.Kf, par.nf, par.f, par.alpha, ...
+    tInjectDays, tMaxDays );
+end
