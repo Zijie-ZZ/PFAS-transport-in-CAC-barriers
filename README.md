@@ -1,7 +1,4 @@
 # PFAS transport in CAC-amended groundwater barriers
-This repository provides the MATLAB codes used to generate the transport
-simulations presented in a manuscript submitted to *ACS ES&T Engineering*.
-
 
 This repository contains MATLAB codes used to simulate PFAS transport in
 colloidal activated carbon (CAC)–amended sand columns, with a focus on
@@ -10,7 +7,8 @@ particle-scale mass-transfer limitations and non-equilibrium sorption.
 The model solves a one-dimensional advection–dispersion equation with
 nonlinear Freundlich sorption and a two-site formulation that accounts for
 both equilibrium and kinetic sorption domains. The codes provided here
-support the analyses and figures presented in the associated manuscript.
+support the analyses and figures presented in a manuscript submitted to
+*ACS ES&T Engineering*.
 
 ---
 
@@ -93,5 +91,6 @@ repository root directory, and run:
 
 ```matlab
 run(fullfile('src','Run_PFOS_column.m'))
+
 
 
