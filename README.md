@@ -85,14 +85,13 @@ ACS ES&T Engineering (submitted).
 
 No additional toolboxes are required beyond standard MATLAB functionality.
 
+
 ### Quick usage
 
-After downloading or cloning the repository, run:
+After downloading or cloning the repository, open MATLAB, navigate to the
+repository root directory, and run:
 
 ```matlab
 run(fullfile('src','Run_PFOS_column.m'))
-
-
----
 
 
