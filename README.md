@@ -18,7 +18,7 @@ Zheng, Z., Cline, D., Shih, C.-Y., Richardson, S. D., Newell, C.,
 El Mohtar, C., Hesse, M. A., Werth, C. J.
 **Effects of Mass-transfer Limitations on PFAS Breakthrough in
 Colloidal Activated Carbon Groundwater Barriers**.
-*ACS ES&T Engineering* (submitted).
+*ACS ES&T Engineering* (under preparation).
 
 ---
 
@@ -73,7 +73,7 @@ Zheng, Z.; Cline, D.; Shih, C.-Y.; Richardson, S. D.; Newell, C.;
 El Mohtar, C.; Hesse, M. A.; Werth, C. J.
 *Effects of Mass-transfer Limitations on PFAS Breakthrough in
 Colloidal Activated Carbon Groundwater Barriers*.
-ACS ES&T Engineering (submitted).
+ACS ES&T Engineering (under preparation).
 
 ---
 ## Getting Started
